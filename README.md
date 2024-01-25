@@ -19,7 +19,7 @@ Get Started
 
 Ready to embark on your JavaScript journey? Clone the repository and start coding with Chai! ☕💻
 
-git clone https://github.com/your-username/chai-aur-javascript.git
+git clone (https://github.com/ankur1435/chai-aur-javascript/tree/67faa0c962c49a094bb80ba208b3e0b872240492/Java%20script%20by%20chai%20aur%20code)
 
 Contributions
 Contributions are welcome! If you find a bug or want to add more examples, feel free to open an issue or submit a pull request.
