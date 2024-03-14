@@ -1,4 +1,3 @@
-Chai aur JavaScript
 Welcome to the "Chai aur JavaScript" repository! 🚀
 
 About
