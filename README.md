@@ -2,7 +2,7 @@
 
 ## About
 This repository is your go-to resource for mastering **JavaScript**, guided by the expert instructor **Hitesh Chaudhary**. From foundational concepts to advanced techniques, each lesson is meticulously explained with clear code examples and insightful comments.
-
+ 
 ## What's Inside
 
 - **📚 Organized Learning:** Explore JavaScript in a structured, step-by-step approach.
