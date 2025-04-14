@@ -1,7 +1,9 @@
 const accountId = 144553
 let accountEmail = "hitesh@google.com"
 var accountPassword = "12345"
+
 accountCity = "Jaipur"
+// No error will be here because JS allows this if you want to get error use "use strict" 
 let accountState;
 
 // accountId = 2 // not allowed
@@ -12,6 +14,7 @@ accountPassword = "21212121"
 accountCity = "Bengaluru"
 
 console.log(accountId);
+console.log(accountCity)
 
 /*
 Prefer not to use var
